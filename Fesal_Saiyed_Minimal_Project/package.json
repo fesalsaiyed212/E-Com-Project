@@ -1,0 +1,11 @@
+{
+  "name": "fesal-saiyed-minimal",
+  "version": "0.1.0",
+  "description": "Minimal placeholder GitHub-ready project for Fesal Saiyed",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Fesal Saiyed",
+  "license": "MIT"
+}
